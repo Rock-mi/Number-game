@@ -1,0 +1,21 @@
+*{
+    margin:0;padding:0;
+}
+body{
+    width:50%;
+    margin:100px auto;
+}
+input{
+    outline:none;
+    vertical-align: top;
+}
+#guessField{
+    height:18px;width:220px;
+}
+.guessSubmit{
+    width:50px;
+}
+.lastResult {
+    color: white;
+    padding: 3px;
+}
